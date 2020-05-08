@@ -35,7 +35,7 @@ In a **Sprint** there are
 - **The How :** The development team plans the work necessary to deliver the sprint goal.
 - **The Who:** Each of the roles assinged for a project and what their tasks are specifically.
 
-![Image](C:\Users\user\Documents\World-of-Agile-Scrum\sprintplanningdiagram.png)
+![Image](sprintplanningdiagram.jpg)
 
 ### Wait, what are these roles that I speak of?
 
