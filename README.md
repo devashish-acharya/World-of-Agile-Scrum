@@ -35,8 +35,7 @@ In a **Sprint** there are
 - **The How :** The development team plans the work necessary to deliver the sprint goal.
 - **The Who:** Each of the roles assinged for a project and what their tasks are specifically.
 
-![Image](img.jpg)
-
+![Image](./images/sprintplanning.svg)
 ### Wait, what are these roles that I speak of?
 
 Before I dive even deeper, let me explain who is involved in a **Scrum** project.
