@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+# What am I?
 
-You can use the [editor on GitHub](https://github.com/devashish-acharya/World-of-Agile-Scrum/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here, learn all the basics of Agile Scrum. 
+
+Firstly, Agile is an iterative approach to project management and software development which provides ideas and pathways to deliver values to costumer in the most efficient way. Where Agile may be considered a mindset, Scrum is implimenting that mindset into something to get the result
+
+So to expand, scrum is a framework for efficient and a high standard of collaboration. It is heavily embraced in the world of software engineering as it accepts changes openly.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
