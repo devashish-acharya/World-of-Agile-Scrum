@@ -51,5 +51,6 @@ These are the people who do the work and can be comprised of all kinds of people
 
 They can be defined as the **anchor** that holds everything together. They ensure that the **scrum** is being done well. They aim to protect the team against blockers(things in the way of the project). They work individually with all the memebers and keep the standard of **scrum** at a high level.
 
+## ***THIS WEBPAGE IS IN PROGRESS, PLEASE STAND BY FOR UPDATES, NEXT I WILL COVER THE STAGES THAT COMES AFTER SPRINT PLANNING***
 
 
