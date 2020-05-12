@@ -1,0 +1,47 @@
+h1 {
+    color: gold
+}
+h1{
+    text-align: center;
+}
+
+#firstP{
+    color: gold;
+}
+
+#firstP{
+    text-align: center;
+}
+
+body{
+    background-image: url(kindpng_998590.png), url("close-up-of-wooden-plank-326311.jpg");
+    background-repeat: no-repeat, no-repeat;
+    background-size:5cm, 100% 100%;
+    background-position: right top;
+}
+
+body {
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+body {
+    color: whitesmoke
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+img {
+    border: 1rem solid whitesmoke;
+}
+
+img {
+    border: 1rem solid gold;
+  }
