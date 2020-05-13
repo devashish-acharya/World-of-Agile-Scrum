@@ -53,5 +53,11 @@ img {
       text-align: center;
   }
   ol {
-      background-color: rgb(255, 225, 56);
+      background-color: rgba(245, 245, 245, 0.575);
   }
+  ol {
+    border: 1rem solid rgba(255, 225, 56, 0.575);
+}
+table {
+    margin: 0 auto;
+}
