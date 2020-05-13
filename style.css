@@ -1,12 +1,12 @@
 h1 {
-    color: gold
+    color: rgb(255, 225, 56);
 }
 h1{
     text-align: center;
 }
 
 #firstP{
-    color: gold;
+    color: rgb(255, 225, 56);
 }
 
 #firstP{
@@ -23,7 +23,6 @@ body{
 body {
     font-family: Arial;
     font-size: 20px;
-    font-weight: bolder;
 }
 
 body {
@@ -43,5 +42,16 @@ img {
 }
 
 img {
-    border: 1rem solid gold;
+    border: 1rem solid rgb(255, 225, 56);
+  }
+
+  h3 {
+      color: rgb(255, 225, 56);
+  }
+
+  h3{
+      text-align: center;
+  }
+  ol {
+      background-color: rgb(255, 225, 56);
   }
