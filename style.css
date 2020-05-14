@@ -1,12 +1,16 @@
 h1 {
-    color: rgb(255, 225, 56);
+    color: rgb(0, 4, 255);
+}
+
+.firstH{
+    color: rgb(0, 4, 255);
 }
 h1{
     text-align: center;
 }
 
 #firstP{
-    color: rgb(255, 225, 56);
+    color: rgb(0, 4, 255);
 }
 
 #firstP{
@@ -14,7 +18,7 @@ h1{
 }
 
 body{
-    background-image: url(kindpng_998590.png), url("close-up-of-wooden-plank-326311.jpg");
+    background-image: url(kindpng_998590.png), url("polymesh2-08-01.jpg");
     background-repeat: no-repeat, no-repeat;
     background-size:5cm, 100% 100%;
     background-position: right top;
@@ -26,7 +30,7 @@ body {
 }
 
 body {
-    color: whitesmoke
+    color: rgb(105, 0, 119);
 }
 
 img {
@@ -38,32 +42,37 @@ img {
 
 
 img {
-    border: 1rem solid whitesmoke;
+    border: 1rem solid black;
 }
 
 img {
-    border: 1rem solid rgb(255, 225, 56);
+    border: 1rem solid rgb(105, 0, 119);
   }
 
   h3 {
-      color: rgb(255, 225, 56);
+      color: rgb(0, 4, 255);
   }
 
   h3{
       text-align: center;
   }
-  ol {
-      background-color: rgba(255, 225, 56, 0.575);
-  }
-  ol {
-    border: 1rem solid rgba(245, 245, 245, 0.575);
-}
+
 table {
     margin: 0 auto;
 }
 h2{
     text-align: center;
 }
-ol {
-    text-align: center;
+
+h2{
+    color: rgb(0, 4, 255) ;
 }
+
+hr{
+    color: black;
+    background-color: black;
+}
+.disclaimer {
+    color: rgb(105, 0, 119);
+}
+
